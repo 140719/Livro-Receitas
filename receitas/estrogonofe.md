@@ -1,8 +1,6 @@
-#Estrogonofe de Frango
+# Estrogonofe de Frango
 
-
-
-##Ingredientes
+##### Ingredientes
 
 * 1 dente de alho picado
 
@@ -24,9 +22,7 @@
 
 * [batata palha](https://blog.tudogostoso.com.br/cardapios/receitas-faceis/receitas-com-batata-palha/) a gosto
 
-
-
-##**Modo de Preparo**
+#####  **Modo de Preparo**
 
 1. Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
@@ -39,3 +35,7 @@
 5. Incorpore [o creme de leite](https://blog.tudogostoso.com.br/dicas-de-cozinha/creme-de-leite-fresco-caseiro-de-caixinha-e-mais/) e retire do fogo antes de ferver.
 
 6. Sirva com arroz branco e batata palha.
+
+
+
+
